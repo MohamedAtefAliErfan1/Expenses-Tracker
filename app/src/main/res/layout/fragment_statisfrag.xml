@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".view.statisfrag">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="15dp">
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="weekly"
+            android:id="@+id/weekly"
+            android:background="@drawable/sh3"
+            android:textColor="#fff"/>
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="monthly"
+            android:id="@+id/monthly"
+            android:background="@drawable/sh4"
+            android:textColor="#fff"/>
+    </LinearLayout>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fragent_place">
+
+    </FrameLayout>
+
+</LinearLayout>
