@@ -1,5 +1,8 @@
 # Expenses-Tracker
 app to count daily costs based on Room database and expanded recyclerview 
+
+overview
+
 ![1](https://user-images.githubusercontent.com/54139683/65611877-be846b00-dfb3-11e9-93b0-40a77dea3d62.png)
 ![2](https://user-images.githubusercontent.com/54139683/65611942-d4922b80-dfb3-11e9-950f-dee0a0a630f4.png)
 ![3](https://user-images.githubusercontent.com/54139683/65611956-d825b280-dfb3-11e9-9e71-fe40f5e75b52.png)
